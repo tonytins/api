@@ -1,5 +1,5 @@
 {
     "feed": [
-        "Welcome to Pawprint Press!"
+        "Welcome to Pawprint Press! The built-in news section for my games. I wanted to try out HTTP requests in Godot, and since this game is frequently updated, I figured it would make sense to have something like this built-in."
     ]
 }
